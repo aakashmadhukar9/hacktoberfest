@@ -7,10 +7,10 @@ layout: page
 title: profile
 
 # Required
-name: <AAKASH MADHUKAR>
+name: AAKASH MADHUKAR
 
 # Optional, atleast 2 recommended
-email: <aakashmadhukar9@gmail.com>
+email: aakashmadhukar9@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
